@@ -7,4 +7,5 @@
 
 .image-list img {
 	width: 250px;
+	border-radius: 5px;
 }
